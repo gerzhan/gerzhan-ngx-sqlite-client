@@ -1,6 +1,13 @@
 {
   "name": "@gerzhan/ngx-sqlite-client",
   "version": "0.0.1",
+  "private": false,
+  "author": {
+    "name": "Nikolay Gerzhan",
+    "email": "nikolay.gerzhan@yandex.ru",
+    "url": "https://github.com/gerzhan"
+  },
+  "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^20.3.0",
     "@angular/core": "^20.3.0"
@@ -8,5 +15,14 @@
   "dependencies": {
     "tslib": "^2.3.0"
   },
-  "sideEffects": false
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerzhan/gerzhan-ngx-sqlite-client.git"
+  },
+  "keywords": [
+    "angular",
+    "sqlite",
+    "web"
+  ]
 }
