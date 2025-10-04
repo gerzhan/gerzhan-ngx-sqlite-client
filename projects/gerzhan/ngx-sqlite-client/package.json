@@ -1,6 +1,6 @@
 {
   "name": "@gerzhan/ngx-sqlite-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "author": {
     "name": "Nikolay Gerzhan",
