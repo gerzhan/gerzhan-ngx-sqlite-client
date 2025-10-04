@@ -7,7 +7,7 @@
     "build": "ng build --configuration production",
     "watch": "ng build --watch --configuration development",
     "test": "echo skip test",
-    "publish": "cd ./dist/gerzhan/ngx-sqlite-client && npm publish --access public && cd .. && cd .. && cd .."
+    "publish": "cd ./dist/gerzhan/ngx-sqlite-client && npm publish --access public --no-git-checks && cd .. && cd .. && cd .."
   },
   "author": {
     "name": "Nikolay Gerzhan",
